@@ -19,7 +19,7 @@ dropout = 0.15
 max_len = 1024
 pad_idx = 0
 
-data_file_path = '/home/max/data/SpeechCommands/speech_commands_v0.02'
+data_file_path = './data/SpeechCommands/speech_commands_v0.02'
 
 checkpoint_path = 'model/'
 model_name = 'checkpoint'
