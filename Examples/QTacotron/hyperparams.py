@@ -25,6 +25,6 @@ save_step = 2000
 
 cleaners='english_cleaners'
 
-data_path = '/home/max/data/LJSpeech-1.1'
+data_path = '../../data/LJSpeech-1.1'
 output_path = './results'
 checkpoint_path = './checkpoints'
