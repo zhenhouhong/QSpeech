@@ -9,9 +9,9 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 - pip install numba==0.48.0
 
 # Basic framework
-## QCircuit: the variational quantum circuit(VQC) and hybrid VQC.
-## QLayer: the qlstm, qgru, qattention, qconv.
-## QModels: qm5, qtransformer, qtacotron
+- QCircuit: the variational quantum circuit(VQC) and hybrid VQC.
+- QLayer: the qlstm, qgru, qattention, qconv.
+- QModels: qm5, qtransformer, qtacotron
 
 # How to use
 
