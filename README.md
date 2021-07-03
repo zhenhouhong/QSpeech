@@ -26,7 +26,7 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 
 ## QTacotron
 - `cd ./Examples/QTacotron`
-- Modify the config.py, like the path of dataset
+- Modify the hyperparams.py, like the path of dataset
 - `python3 train.py --batch_size 2`
 
 ## QTransformer-TTS
