@@ -19,10 +19,8 @@ dropout = 0.15
 max_len = 1024
 pad_idx = 0
 
-Metadata = '/home/max/data/LJSpeech-1.1/metadata.csv'
-Audio_file_path = '/home/max/data/LJSpeech-1.1/wavs/'
-#Metadata = 'input/LJSpeech-1.1/metadata.csv'
-#Audio_file_path = 'input/LJSpeech-1.1/wavs/'
+Metadata = '../../data/LJSpeech-1.1/metadata.csv'
+Audio_file_path = '../../data/LJSpeech-1.1/wavs/'
 
 Model_Path = 'model/model.bin'
 checkpoint = 'model/checkpoint.bin'
