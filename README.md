@@ -2,10 +2,8 @@
 A library tool about quantum neural network in speech application.
 Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum Transformer-TTS(QTransformer-TTS).
 
-'''
 This repository contains the official implementation of the following paper:
-QSpeech: Low-Qubit Quantum Speech Application Toolkit
-'''
+*QSpeech: Low-Qubit Quantum Speech Application Toolkit*
 
 # Install
 - pip install torch
