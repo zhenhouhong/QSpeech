@@ -7,12 +7,12 @@ This repository is the official implementation of [QSpeech: Low-Qubit Quantum Sp
 
 <table><tbody>
     <tr>
-        <th>"QNN in speech application"</th>
         <th>"Low-qubit Circuit"</th>
+        <th>"QSpeech Framework"</th>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/zhenhouhong/QSpeech/blob/main/qspeech.png"></div></td>
         <td><div align=center><img src="https://github.com/zhenhouhong/QSpeech/blob/main/low-qubit-cricuit.png"></div></td>
+        <td><div align=center><img src="https://github.com/zhenhouhong/QSpeech/blob/main/qspeech-framework.png"></div></td>
     </tr>
 </table>
 
