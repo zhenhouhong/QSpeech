@@ -5,7 +5,7 @@
 ## Introduction
 This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit]().
 
-A library tool about quantum neural network in speech application.
+A library tool about quantum neural network in speech application. 
 Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum Transformer-TTS(QTransformer-TTS).
 
 ![qspeech]()
@@ -23,23 +23,23 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 - QLayer: the qlstm, qgru, qattention, qconv.
 - QModels: qm5, qtransformer, qtacotron
 
-# How to use
+## How to use
 
-## Download the datasets
+### Download the datasets
 - LJSpeech1.1
 - SpeechCommandV0.02
 
-## QM5
+### QM5
 - `cd ./Examples/QM5`
 - Modify the config.py, like the path of dataset
 - `python3 speech-command-recognition.py`
 
-## QTacotron
+### QTacotron
 - `cd ./Examples/QTacotron`
 - Modify the hyperparams.py, like the path of dataset
 - `python3 train.py --batch_size 2`
 
-## QTransformer-TTS
+### QTransformer-TTS
 - `cd ./Examples/QTransformerTTS`
 - Modify the config.py, like the path of dataset
 - `python3 train.py`
