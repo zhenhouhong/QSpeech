@@ -3,7 +3,7 @@
 >**QSpeech: Low-Qubit Quantum Speech Application Toolkit**
 
 ## Introduction
-This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit]().
+This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit](). A library for the rapid prototyping of hybrid quantum-classical neural networks in speech applications.
 
 <table><tbody>
     <tr>
