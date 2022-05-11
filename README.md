@@ -53,3 +53,15 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 - `cd ./Examples/QTransformerTTS`
 - Modify the config.py, like the path of dataset
 - `python3 train.py`
+
+## Citation
+If you find QSpeech useful in your research, please consider citing:
+
+    @inproceedings{hong2021quantum,
+      title={QSpeech: Low-Qubit Quantum Speech Application Toolkit},
+      author={Hong, Zhenhou and Wang, Jianzong and Qu, Xiaoyang and Zhao, Chendong and Tao, Wei and Xiao, Jing},
+      booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
+      pages={1--8},
+      year={2022},
+      organization={IEEE}
+    }
