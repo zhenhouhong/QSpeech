@@ -26,7 +26,7 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 - Linux (Test on Ubuntu18.04)
 - Python3.6+ (Test on Python3.6.8)
 - PyTorch
-- Pennylane
+- PennyLane
 - Librosa (version 0.7.2)
 - Numba (version 0.48.0)
 
