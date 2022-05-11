@@ -7,7 +7,7 @@ This repository is the official implementation of [QSpeech: Low-Qubit Quantum Sp
 
 <table><tbody>
     <tr>
-        <th>"Low-qubit Circuit"</th>
+        <th>"Low-qubit VQC"</th>
         <th>"QSpeech Framework"</th>
     </tr>
     <tr>
