@@ -59,7 +59,7 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 ## Citation
 If you find QSpeech useful in your research, please consider citing:
 
-    @inproceedings{hong2021quantum,
+    @inproceedings{hong2022qspeech,
       title={QSpeech: Low-Qubit Quantum Speech Application Toolkit},
       author={Hong, Zhenhou and Wang, Jianzong and Qu, Xiaoyang and Zhao, Chendong and Tao, Wei and Xiao, Jing},
       booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
