@@ -1,16 +1,22 @@
 # QSpeech
+
+>**QSpeech: Low-Qubit Quantum Speech Application Toolkit**
+
+## Introduction
+This repository is the official implementation of QSpeech: Low-Qubit Quantum Speech Application Toolkit.
+
 A library tool about quantum neural network in speech application.
 Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum Transformer-TTS(QTransformer-TTS).
 
->This repository contains the official implementation of the following paper:
->
->**QSpeech: Low-Qubit Quantum Speech Application Toolkit**
+![qspeech]()
 
-# Install
-- pip install torch
-- pip install pennylane
-- pip install librosa==0.7.2
-- pip install numba==0.48.0
+## Requirements
+- Linux (Test on Ubuntu18.04)
+- Python3.6+ (Test on Python3.6.8)
+- PyTorch
+- Pennylane
+- Librosa (version 0.7.2)
+- Numba (version 0.48.0)
 
 # Basic framework
 - QCircuit: the variational quantum circuit(VQC) and hybrid VQC.
