@@ -5,10 +5,20 @@
 ## Introduction
 This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit]().
 
-A library tool about quantum neural network in speech application. 
-Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum Transformer-TTS(QTransformer-TTS).
+<table><tbody>
+    <tr>
+        <th>"QNN in speech application"</th>
+        <th>"Low-qubit Circuit"</th>
+    </tr>
+    <tr>
+        <td><div align=center><img src="https://github.com/zhenhouhong/QSpeech/blob/main/qspeech.png"></div></td>
+        <td><div align=center><img src="https://github.com/zhenhouhong/QSpeech/blob/main/low-qubit-cricuit.png"></div></td>
+    </tr>
+</table>
 
-![qspeech]()
+A library tool about quantum neural network in speech application. 
+Here we implement the Low-qubit Circuit, Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum Transformer-TTS(QTransformer-TTS).
+
 
 ## Requirements
 - Linux (Test on Ubuntu18.04)
