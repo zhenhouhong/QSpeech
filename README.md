@@ -18,7 +18,7 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 - Librosa (version 0.7.2)
 - Numba (version 0.48.0)
 
-# Basic framework
+## Basic framework
 - QCircuit: the variational quantum circuit(VQC) and hybrid VQC.
 - QLayer: the qlstm, qgru, qattention, qconv.
 - QModels: qm5, qtransformer, qtacotron
