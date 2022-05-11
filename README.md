@@ -19,7 +19,7 @@ Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum T
 - Numba (version 0.48.0)
 
 ## Basic framework
-- QCircuit: the variational quantum circuit(VQC) and Low-qubit VQC.
+- QCircuit: the variational quantum circuit(VQC) and low-qubit VQC.
 - QLayer: the qlstm, qgru, qattention, qconv.
 - QModels: qm5, qtransformer, qtacotron
 
