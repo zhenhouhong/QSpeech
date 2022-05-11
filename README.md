@@ -1,6 +1,8 @@
 # QSpeech
 
 >**QSpeech: Low-Qubit Quantum Speech Application Toolkit**
+>
+>Accepted by the International Joint Conference on Neural Networks (IJCNN) 2022
 
 ## Introduction
 This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit](). A library for the rapid prototyping of hybrid quantum-classical neural networks in speech applications.
