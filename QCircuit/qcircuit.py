@@ -12,7 +12,7 @@ class LowqubitVQC(nn.Module):
             n_qlayers,
             qembed_type="angle",
             qlayer_type="basic"):
-        super(HybridVQC, self).__init__()
+        super(LowqubitVQC, self).__init__()
     
         self.input_filters = input_filters
         self.output_filters = output_filters
