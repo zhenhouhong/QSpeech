@@ -5,7 +5,11 @@
 >Accepted by the International Joint Conference on Neural Networks (IJCNN) 2022
 
 ## Introduction
-This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit](). It proposes the low-qubit VQC and a library for the rapid prototyping of hybrid quantum-classical neural networks in speech applications.
+This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit](). 
+
+It proposes:
+- The low-qubit variational quantum circuit (VQC).
+- A library for the rapid prototyping of hybrid quantum-classical neural networks in speech applications.
 
 <table><tbody>
     <tr>
@@ -18,8 +22,7 @@ This repository is the official implementation of [QSpeech: Low-Qubit Quantum Sp
     </tr>
 </table>
 
-A library tool about quantum neural network in speech application. 
-Here we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum Transformer-TTS(QTransformer-TTS).
+For the hybrid quantum-classical neural networks in speech applications, we implement the Quantum M5(QM5), Quantum Tacotron(QTacotron) and Quantum Transformer-TTS(QTransformer-TTS).
 
 
 ## Requirements
