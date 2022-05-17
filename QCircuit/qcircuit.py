@@ -4,7 +4,7 @@ import torch.nn as nn
 import pennylane as qml
 
 
-class HybridVQC(nn.Module):
+class LowqubitVQC(nn.Module):
     def __init__(self,
             input_filters,
             output_filters,
@@ -93,6 +93,6 @@ if __name__ == "__main__":
     #V = vqc(4, 1)
     #b = V(a1)
     #print(b.shape)
-    hvqc = HybridVQC(32, 16, 4, 1)
+    hvqc = LowqubitVQC(32, 16, 4, 1)
     c = hvqc(a)
     print(c.shape)
