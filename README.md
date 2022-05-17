@@ -13,7 +13,7 @@ It proposes:
 
 <table><tbody>
     <tr>
-        <th>Low-Qubit VQC</th>
+        <th>Low-qubit VQC</th>
         <th>QSpeech Framework</th>
     </tr>
     <tr>
