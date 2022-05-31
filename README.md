@@ -5,7 +5,7 @@
 >Accepted by the International Joint Conference on Neural Networks (IJCNN) 2022
 
 ## Introduction
-This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit](). 
+This repository is the official implementation of [QSpeech: Low-Qubit Quantum Speech Application Toolkit](https://arxiv.org/abs/2205.13221). 
 
 It proposes:
 - The low-qubit variational quantum circuit (VQC).
